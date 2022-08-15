@@ -18,3 +18,6 @@ A snapshot of the table
 ![Uploading screenshot1.png…]()
 
 
+A snippet of the code
+
+<img width="607" alt="screenshot2" src="https://user-images.githubusercontent.com/104544617/184630066-edb8ac9c-ba7a-404d-9ef5-8cf3521d567a.png">
