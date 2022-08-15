@@ -14,6 +14,7 @@ Create a basic/custom HTML web page. Using the UFO dataset provided in the form 
 
 A snapshot of the table
 
-screenshot1.png
 
-A snippet of the code
+![Uploading screenshot1.png…]()
+
+
